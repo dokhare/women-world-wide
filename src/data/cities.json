@@ -3,8 +3,8 @@
     "name": "Abuja",
     "slug": "abuja",
     "country": "nigeria",
-    "top": 370,
-    "left": 453
+    "top": 355,
+    "left": 460
   },
   {
     "name": "Atlanta",
@@ -129,15 +129,15 @@
     "name": "Dakar",
     "slug": "dakar",
     "country": "senegal",
-     "top": 370,
-    "left": 435
+     "top": 350,
+    "left": 412
   },
   {
     "name": "Dar es Salaam",
     "slug": "dar-es-salaam",
     "country": "tanzania",
-     "top": 386,
-    "left": 553
+     "top": 435,
+    "left": 541
   },
   {
     "name": "Delhi",
@@ -206,8 +206,8 @@
     "name": "Johannesburg",
     "slug": "johannesburg",
     "country": "south-africa",
-    "top": 429,
-    "left": 541
+    "top": 469,
+    "left": 521
   },
   {
     "name": "kampala",

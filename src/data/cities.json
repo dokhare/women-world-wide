@@ -129,8 +129,8 @@
     "name": "Dakar",
     "slug": "dakar",
     "country": "senegal",
-     "top": 350,
-    "left": 412
+     "top": 340,
+    "left": 410
   },
   {
     "name": "Dar es Salaam",
@@ -206,7 +206,7 @@
     "name": "Johannesburg",
     "slug": "johannesburg",
     "country": "south-africa",
-    "top": 469,
+    "top": 479,
     "left": 521
   },
   {
